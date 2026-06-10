@@ -1,0 +1,6 @@
+stage,method,input_count,output_count,pass_rate,criteria
+initial_generation,all,5000,5000,1.0,all_generated_designs
+rmsd_filter,all,5000,1800,0.36,RMSD<=2.5
+confidence_filter,all,1800,620,0.344,pLDDT>=75;pTM>=0.6;ipTM>=0.6
+ipsae_ranking_shortlist,all,620,80,0.129,ipSAE_top_ranked
+final_selection,all,80,10,0.125,combined_multimetric_selection

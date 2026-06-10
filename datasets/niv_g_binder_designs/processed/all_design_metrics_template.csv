@@ -1,0 +1,4 @@
+design_id,method,sequence,sequence_length,design_class,pLDDT,pTM,ipTM,ipSAE,RMSD,passed_filter,final_selected,selection_reason
+BG_0001,BoltzGen,ACDEFGHIKLMNPQRSTVWY,20,de_novo,82.5,0.71,0.69,0.76,1.25,TRUE,TRUE,top_ipsae_and_consistent_structure
+RF_0001,RFDiffusion+SolMPNN,ACDEFGHIKLMNPQRSTVWYACDE,24,diffusion_scaffold,79.0,0.66,0.62,0.58,1.90,TRUE,FALSE,good_confidence_lower_ipsae
+PM_0001,ProteinMPNN,ACDEFGHIKLMNPQRSTV,18,receptor_mimetic,72.0,0.55,0.52,0.41,2.80,FALSE,FALSE,failed_confidence_and_rmsd

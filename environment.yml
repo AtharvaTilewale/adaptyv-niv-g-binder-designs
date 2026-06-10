@@ -1,0 +1,8 @@
+name: adaptyv-niv-g-binder-designs
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - pandas>=2.0
+  - matplotlib>=3.7
+  - pip
