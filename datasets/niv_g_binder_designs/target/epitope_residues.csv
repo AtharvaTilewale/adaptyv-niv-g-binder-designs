@@ -1,0 +1,10 @@
+residue,chain,source,included_in_boltzgen_targeting,notes
+S241,G,literature_md_guided,TRUE,epitope_residue
+R402,G,literature_md_guided,TRUE,epitope_residue
+E501,G,literature_md_guided,TRUE,epitope_residue
+W504,G,literature_md_guided,TRUE,epitope_residue
+E505,G,literature_md_guided,TRUE,epitope_residue
+V507,G,literature_md_guided,TRUE,epitope_residue
+Q530,G,literature_md_guided,TRUE,epitope_residue
+E533,G,literature_md_guided,TRUE,epitope_residue
+N557,G,literature_md_guided,TRUE,epitope_residue

@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "adaptyv-niv-g-binder-designs"
+message: "If you use this repository, please cite it using the metadata below."
+type: software
+authors:
+  - family-names: "Tilewale"
+    given-names: "Atharva"
+repository-code: "https://github.com/AtharvaTilewale/adaptyv-niv-g-binder-designs"
+license: MIT
+keywords:
+  - protein design
+  - binder design
+  - Nipah virus
+  - NiV-G
+  - BoltzGen
+  - RFDiffusion
+  - ProteinMPNN
+version: "0.1.0"
+date-released: "2026-06-10"

@@ -1,0 +1,2 @@
+design_id,method,sequence,sequence_length,design_class,pLDDT,pTM,ipTM,ipSAE,RMSD,passed_filter,final_selected,selection_reason,submission_batch,notes
+BG_0001,BoltzGen,ACDEFGHIKLMNPQRSTVWY,20,de_novo,82.5,0.71,0.69,0.76,1.25,TRUE,TRUE,top_ipsae_and_consistent_structure,batch_01,example_entry
