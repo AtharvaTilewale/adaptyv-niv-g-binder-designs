@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+title: "Adaptyv NiV-G Binder Designs: AI-guided de novo binder design dataset for Nipah virus glycoprotein G"
+message: "If you use this repository, dataset, workflow, scripts, or metadata, please cite it using the information below."
+type: dataset
+
+authors:
+  - family-names: Tilewale
+    given-names: Atharva
+    affiliation: "Gujarat Biotechnology University"
+  - name: "CxBL Computational and Experimental Biomolecular Lab contributors"
+
+abstract: >
+  This repository documents an AI-guided protein binder design workflow developed for the Adaptyv / ProteinBase Nipah Binder Competition. The target was Nipah virus attachment glycoprotein G. The design campaign used multiple complementary computational strategies, including BoltzGen targeted de novo binder design, ProteinMPNN receptor-mimetic design, and RFDiffusion with ProteinMPNN/SolMPNN followed by AlphaFold-based validation. Candidate binders were evaluated using structural prediction and filtered using RMSD, pLDDT, pTM, ipTM, and ipSAE-based ranking. The repository provides workflow documentation, metadata templates, analysis scripts, final selected binder information, and links to large archived design outputs.
+
+keywords:
+  - protein design
+  - binder design
+  - de novo protein design
+  - Nipah virus
+  - glycoprotein G
+  - NiV-G
+  - BoltzGen
+  - Boltz2
+  - ProteinMPNN
+  - SolMPNN
+  - RFDiffusion
+  - AlphaFold
+  - ipSAE
+  - structural bioinformatics
+  - computational biology
+
+license: MIT
+repository-code: "https://github.com/AtharvaTilewale/adaptyv-niv-g-binder-designs"
+url: "https://github.com/AtharvaTilewale/adaptyv-niv-g-binder-designs"
+
+preferred-citation:
+  type: dataset
+  title: "Adaptyv NiV-G Binder Designs: AI-guided de novo binder design dataset for Nipah virus glycoprotein G"
+  authors:
+    - family-names: Tilewale
+      given-names: Atharva
+      affiliation: "Gujarat Biotechnology University"
+    - name: "CxBL Computational and Experimental Biomolecular Lab contributors"
+  year: 2026
+  repository-code: "https://github.com/AtharvaTilewale/adaptyv-niv-g-binder-designs"
+  doi: "10.5281/zenodo.XXXXXXX"
+  license: "CC-BY-4.0"
