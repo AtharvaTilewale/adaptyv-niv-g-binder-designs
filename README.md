@@ -8,7 +8,7 @@ Candidate binders were evaluated using AlphaFold-based and Boltz2-based structur
 
 If you use this repository, workflow, scripts, metadata, or released binder-design dataset, please cite:
 
-Tilewale A. and CxBL Computational and Experimental Biomolecular Lab contributors.  
+Tilewale A.
 *Adaptyv NiV-G Binder Designs: AI-guided de novo binder design dataset for Nipah virus glycoprotein G*.  
 GitHub: https://github.com/AtharvaTilewale/adaptyv-niv-g-binder-designs  
 Dataset DOI: 10.5281/zenodo.XXXXXXX
